@@ -35,4 +35,8 @@ h3,p{
     height: 30px;
   }
   
- 
+  .toggle-switch input {
+    display: none;
+  }
+  
+  
