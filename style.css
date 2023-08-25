@@ -1,0 +1,38 @@
+.img{
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    display: block;
+    margin:30px ;
+    
+    
+}
+.img-cls{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h3,p{
+    text-align: center;
+}
+.scale-button {
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+  }
+  
+  .scale-button:hover {
+    transform: scale(1.1);
+  }
+  .toggle-switch {
+    display: inline-block;
+    position: relative;
+    width: 60px;
+    height: 30px;
+  }
+  
+ 
